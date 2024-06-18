@@ -1,4 +1,6 @@
-## Hi there 👋
+# Smart School Manager
+
+Here we create software to easly and effectively manage all kind of schools using IoT devices.
 
 <!--
 
